@@ -1,0 +1,32 @@
+l1_id,l1_category,l1_category_description
+1,Business Loan,"The Paytm Business Loan is a convenient financing solution for Indian SMEs, offering quick access to funds with competitive interest rates and flexible repayment options. By understanding its terms and eligibility, entrepreneurs can efficiently fuel their business growth, making it a user-friendly option for hassle-free financing."
+2,EDC Invoice Queries,"Inquiries regarding the billing or invoicing for Paytm's EDC machine usage, including charges, discrepancies, or payment details."
+3,EDC Deactivation,"Questions about how to deactivate an EDC machine, the impact of deactivation, and any associated processes or policies."
+4,EDC Refund,Inquiries about the possibility and process of obtaining a refund for issues related to the EDC machine or service fees.
+5,EDC Hardware,"Questions regarding the physical components of the EDC machine, such as maintenance, troubleshooting, or technical specifications."
+6,EDC Software Issues,"Requests for assistance with software problems on the EDC machine, including updates, bugs, or error messages."
+7,Training and Product Enquiry,"Seeking information on how to use the EDC machine or specifics about its features, capabilities, and technical support."
+8,EDC Rental,"Inquiries about the terms, conditions, and costs associated with renting an EDC machine from Paytm."
+9,EDC Device Lost,"Questions on what to do if an EDC machine is lost, including reporting procedures and replacement options."
+10,EDC Pre Live Queries,"Issues that need to be resolved before the EDC machine goes live, such as setup, configuration, or initial operation questions."
+11,Additional Feature Related,Requests for information on adding extra features or services to the existing EDC machine capabilities.
+12,EDC Paper Roll Post Live,Inquiries about paper roll for receipt printing after the EDC machine is operational and handling transactions.
+13,EDC Onboarding Request,"Questions about the process and requirements for getting started with a new EDC machine, including documentation and setup assistance."
+14,EDC Software Issue,Involves seeking help with any software-related problems that are affecting the EDC machine's performance.
+15,Payout & Settlements,"Settlements are the payouts for the payments accepted from a merchant's customers for any product/service, which will be transferred into merchant's linked bank account as per the settlement frequency of your merchant. Payouts and Settlements mean the same. "
+16,Merchant Profile,"Inquiries related to changes to bank accounts, account status modifications (upgrades or downgrades), notification settings, and registered contact details, updates to their business information, such as name, address, category, PAN card, and GST number, as well as primary contact changes and issues related to account reactivation, deactivation, and migration; also changes in the authorized signatory and any prohibited issues"
+17,Account Termination Request,"This pertains to issues related to the termination of a merchant's profile or account with Paytm. It could involve challenges with deactivating the overall merchant account, which may include various services beyond the Soundbox and EDC."
+18,Account Termination Request,"Problems that a merchant is experiencing while attempting to request the termination or closure of their Soundbox service account. This could involve difficulties in submitting the termination request, delays in processing the request, or disputes over the terms of service termination"
+19,Additional Feature Related,Example: Device Plan Upgrade
+20,CHD Hardware Issue,Example: SIM Delivery Status
+21,Dynamic QR +,"Paytm's Dynamic QR + is an advanced QR code service for merchants to receive payments, offering features like pre-filled amounts, transaction details, real-time updates, and integration with billing systems for secure and convenient transactions."
+22,FSE Related Issues,Issues related to Field Service Executives (Paytm executives who go to merchant's physical locations)
+23,General Query,"Examples: Features and Offers, New Order related Query"
+24,Pre Live Queries,"""Prelive Queries"" for the Paytm Soundbox involve merchant concerns about setup, features, and integration before the device becomes operational, ensuring a smooth transition to using it for transaction confirmations."
+25,Soundbox Damaged,"The Soundbox unit has suffered physical harm or technical failure, impacting its functionality or appearance, and may require repair or replacement."
+26,Soundbox Deactivation Request,"A merchant has submitted a formal request to Paytm to terminate the Soundbox's operational services, possibly due to discontinuation of use or switching to another service."
+27,Soundbox Hardware,"Refers to the tangible elements of the Soundbox, including its internal circuitry, speaker, buttons, and casing, which are essential for its operation as a payment confirmation tool."
+28,Soundbox Lost,"Related to the merchant's soundbox missing, potentially due to misplacement or theft, and may need assistance in tracking or replacing the device."
+29,Soundbox Refund,"Related to seeking a return of funds paid for the Soundbox, which could be due to dissatisfaction, defects, or unmet service expectations, subject to Paytm's refund policies."
+30,Soundbox Rental,"Related to the arrangement where a merchant pays a recurring fee to use the Soundbox, which might include terms of service, duration of rental, and cost details."
+31,Training and Product Enquiry,"Merchants looking for information on how to use the Soundbox effectively, or inquiring about its features, capabilities, and integration with their current systems."
